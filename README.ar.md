@@ -7,6 +7,8 @@
 التقرير: [بالعربية](paper/PAPER.ar.md) ([PDF](paper/PAPER.ar.pdf)) ·
 [English](paper/PAPER.md) ([PDF](paper/PAPER.pdf)) · [شرح مبسّط](paper/SUMMARY.ar.md)
 
+النسخة المحفوظة من التقرير باللغتين: [doi:10.5281/zenodo.24202729](https://doi.org/10.5281/zenodo.24202729)
+
 ## ما هذا
 
 درّبنا نموذجين لغويَّين على كتابة الشعر العمودي بحركاته كلها، ثم جعلنا برنامجًا يراقب النموذج وهو
