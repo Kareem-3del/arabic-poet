@@ -1,0 +1,39 @@
+{
+  "created_at": "2026-11-12T15:56:00Z",
+  "sample": 500,
+  "seed": 0,
+  "filter": "form == تام",
+  "measure": "strip diacritics -> CATT -> pyarud forced meter",
+  "results": {
+    "shaer": {
+      "poems": 500,
+      "abyat_written": 2904,
+      "abyat_requested": 2813,
+      "abyat_090": 0.342,
+      "abyat_095": 0.124,
+      "req_090": 0.353,
+      "rhyme_majority": 0.762,
+      "classifier_hit": 0.948
+    },
+    "reference_real_poems": {
+      "poems": 500,
+      "abyat_written": 2813,
+      "abyat_requested": 2813,
+      "abyat_090": 0.558,
+      "abyat_095": 0.29,
+      "req_090": 0.558,
+      "rhyme_majority": 0.945,
+      "classifier_hit": null
+    },
+    "yehia_untuned": {
+      "poems": 500,
+      "abyat_written": 1977,
+      "abyat_requested": 2813,
+      "abyat_090": 0.021,
+      "abyat_095": 0.006,
+      "req_090": 0.015,
+      "rhyme_majority": 0.616,
+      "classifier_hit": 0.268
+    }
+  }
+}

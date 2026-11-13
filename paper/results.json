@@ -1,0 +1,1952 @@
+{
+  "created_at": "2026-11-13T17:00:00Z",
+  "corpus_hemistichs": 338406,
+  "systems": {
+    "ALLaM-7B FT, free": {
+      "exact": 0.369,
+      "exact_at_decoding": 0.395,
+      "topic_words": 0.118,
+      "catt_090": 0.325,
+      "catt_095": 0.125,
+      "seconds": 8.243,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.642,
+      "ci95": {
+        "exact": [
+          0.298,
+          0.437
+        ],
+        "catt_090": [
+          0.244,
+          0.411
+        ],
+        "catt_095": [
+          0.078,
+          0.178
+        ],
+        "rawi_strict": [
+          0.49,
+          0.79
+        ],
+        "topic_words": [
+          0.058,
+          0.184
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.36,
+        "kamil": 0.35,
+        "khafif": 0.41,
+        "mutadarik": 0.11,
+        "mutaqarib": 0.54,
+        "rajaz": 0.28,
+        "ramal": 0.38,
+        "sari": 0.38,
+        "tawil": 0.51,
+        "wafir": 0.27
+      }
+    },
+    "ALLaM-7B FT, constrained": {
+      "exact": 0.861,
+      "exact_at_decoding": 0.961,
+      "topic_words": 0.103,
+      "catt_090": 0.62,
+      "catt_095": 0.405,
+      "seconds": 17.96,
+      "unfinished": 0.5,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.931,
+      "ci95": {
+        "exact": [
+          0.808,
+          0.907
+        ],
+        "catt_090": [
+          0.547,
+          0.695
+        ],
+        "catt_095": [
+          0.33,
+          0.486
+        ],
+        "rawi_strict": [
+          0.875,
+          0.979
+        ],
+        "topic_words": [
+          0.053,
+          0.156
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 361,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.71,
+        "kamil": 0.89,
+        "khafif": 0.77,
+        "mutadarik": 0.84,
+        "mutaqarib": 0.9,
+        "rajaz": 0.97,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.82,
+        "wafir": 0.95
+      }
+    },
+    "ALLaM-7B FT, constrained, final acceptor": {
+      "exact": 0.945,
+      "exact_at_decoding": 0.945,
+      "topic_words": 0.114,
+      "catt_090": 0.634,
+      "catt_095": 0.391,
+      "seconds": 21.507,
+      "unfinished": 0.667,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.887,
+      "ci95": {
+        "exact": [
+          0.903,
+          0.976
+        ],
+        "catt_090": [
+          0.55,
+          0.715
+        ],
+        "catt_095": [
+          0.301,
+          0.481
+        ],
+        "rawi_strict": [
+          0.783,
+          0.967
+        ],
+        "topic_words": [
+          0.056,
+          0.172
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 356,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.96,
+        "kamil": 0.88,
+        "khafif": 0.9,
+        "mutadarik": 0.82,
+        "mutaqarib": 1.0,
+        "rajaz": 0.94,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.99,
+        "wafir": 1.0
+      }
+    },
+    "Jais-3-32B FT, free": {
+      "exact": 0.316,
+      "exact_at_decoding": 0.342,
+      "topic_words": 0.203,
+      "catt_090": 0.265,
+      "catt_095": 0.094,
+      "seconds": 54.013,
+      "unfinished": 0.033,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.743,
+      "ci95": {
+        "exact": [
+          0.253,
+          0.38
+        ],
+        "catt_090": [
+          0.185,
+          0.351
+        ],
+        "catt_095": [
+          0.046,
+          0.146
+        ],
+        "rawi_strict": [
+          0.58,
+          0.891
+        ],
+        "topic_words": [
+          0.128,
+          0.278
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 375,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.34,
+        "kamil": 0.33,
+        "khafif": 0.46,
+        "mutadarik": 0.17,
+        "mutaqarib": 0.4,
+        "rajaz": 0.16,
+        "ramal": 0.17,
+        "sari": 0.0,
+        "tawil": 0.36,
+        "wafir": 0.43
+      }
+    },
+    "Jais-3-32B FT, constrained": {
+      "exact": 0.821,
+      "exact_at_decoding": 0.96,
+      "topic_words": 0.146,
+      "catt_090": 0.607,
+      "catt_095": 0.323,
+      "seconds": 211.35,
+      "unfinished": 0.433,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.92,
+      "ci95": {
+        "exact": [
+          0.782,
+          0.861
+        ],
+        "catt_090": [
+          0.521,
+          0.69
+        ],
+        "catt_095": [
+          0.253,
+          0.397
+        ],
+        "rawi_strict": [
+          0.854,
+          0.974
+        ],
+        "topic_words": [
+          0.079,
+          0.218
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 363,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.88,
+        "kamil": 0.83,
+        "khafif": 0.9,
+        "mutadarik": 0.72,
+        "mutaqarib": 0.94,
+        "rajaz": 0.84,
+        "ramal": 0.73,
+        "sari": 0.62,
+        "tawil": 0.79,
+        "wafir": 0.8
+      }
+    },
+    "Jais-3-32B FT, free, rerun": {
+      "exact": 0.323,
+      "exact_at_decoding": 0.323,
+      "topic_words": 0.259,
+      "catt_090": 0.268,
+      "catt_095": 0.093,
+      "seconds": 46.067,
+      "unfinished": 0.033,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.66,
+      "ci95": {
+        "exact": [
+          0.266,
+          0.381
+        ],
+        "catt_090": [
+          0.201,
+          0.338
+        ],
+        "catt_095": [
+          0.053,
+          0.136
+        ],
+        "rawi_strict": [
+          0.5,
+          0.809
+        ],
+        "topic_words": [
+          0.172,
+          0.356
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 375,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.33,
+        "kamil": 0.38,
+        "khafif": 0.47,
+        "mutadarik": 0.09,
+        "mutaqarib": 0.23,
+        "rajaz": 0.34,
+        "ramal": 0.19,
+        "sari": 0.5,
+        "tawil": 0.32,
+        "wafir": 0.35
+      }
+    },
+    "Jais-3-32B FT, constrained, final acceptor": {
+      "exact": 0.97,
+      "exact_at_decoding": 0.97,
+      "topic_words": 0.162,
+      "catt_090": 0.693,
+      "catt_095": 0.369,
+      "seconds": 165.6,
+      "unfinished": 0.367,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.934,
+      "ci95": {
+        "exact": [
+          0.947,
+          0.99
+        ],
+        "catt_090": [
+          0.597,
+          0.781
+        ],
+        "catt_095": [
+          0.281,
+          0.458
+        ],
+        "rawi_strict": [
+          0.878,
+          0.979
+        ],
+        "topic_words": [
+          0.096,
+          0.231
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 365,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.99,
+        "kamil": 1.0,
+        "khafif": 0.94,
+        "mutadarik": 0.97,
+        "mutaqarib": 1.0,
+        "rajaz": 0.97,
+        "ramal": 0.92,
+        "sari": 0.75,
+        "tawil": 0.97,
+        "wafir": 0.98
+      }
+    },
+    "gpt-6.1-sol, prompt only": {
+      "exact": 0.917,
+      "exact_at_decoding": 0.917,
+      "topic_words": 0.377,
+      "catt_090": 0.714,
+      "catt_095": 0.406,
+      "seconds": 127.047,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 1.0,
+      "ci95": {
+        "exact": [
+          0.836,
+          0.982
+        ],
+        "catt_090": [
+          0.625,
+          0.801
+        ],
+        "catt_095": [
+          0.31,
+          0.501
+        ],
+        "rawi_strict": [
+          1.0,
+          1.0
+        ],
+        "topic_words": [
+          0.275,
+          0.483
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 1.0,
+        "kamil": 0.99,
+        "khafif": 1.0,
+        "mutadarik": 0.49,
+        "mutaqarib": 1.0,
+        "rajaz": 0.69,
+        "ramal": 0.96,
+        "sari": 1.0,
+        "tawil": 0.86,
+        "wafir": 1.0
+      }
+    },
+    "gpt-6-astra, prompt only": {
+      "exact": 0.955,
+      "exact_at_decoding": 0.955,
+      "topic_words": 0.354,
+      "catt_090": 0.749,
+      "catt_095": 0.407,
+      "seconds": 204.87,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 1.0,
+      "ci95": {
+        "exact": [
+          0.891,
+          0.994
+        ],
+        "catt_090": [
+          0.661,
+          0.826
+        ],
+        "catt_095": [
+          0.324,
+          0.488
+        ],
+        "rawi_strict": [
+          1.0,
+          1.0
+        ],
+        "topic_words": [
+          0.265,
+          0.451
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.97,
+        "kamil": 0.99,
+        "khafif": 1.0,
+        "mutadarik": 0.55,
+        "mutaqarib": 1.0,
+        "rajaz": 1.0,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.96,
+        "wafir": 0.98
+      }
+    },
+    "claude-fable-5-2, prompt only": {
+      "exact": 0.946,
+      "exact_at_decoding": 0.946,
+      "topic_words": 0.373,
+      "catt_090": 0.701,
+      "catt_095": 0.46,
+      "seconds": 32.547,
+      "unfinished": 0.0,
+      "abyat_written": 0.967,
+      "rawi_strict": 0.958,
+      "ci95": {
+        "exact": [
+          0.872,
+          0.988
+        ],
+        "catt_090": [
+          0.624,
+          0.772
+        ],
+        "catt_095": [
+          0.372,
+          0.547
+        ],
+        "rawi_strict": [
+          0.875,
+          1.0
+        ],
+        "topic_words": [
+          0.265,
+          0.486
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 368,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.8,
+        "kamil": 0.99,
+        "khafif": 1.0,
+        "mutadarik": 0.97,
+        "mutaqarib": 0.9,
+        "rajaz": 1.0,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.95,
+        "wafir": 0.98
+      }
+    },
+    "ablation: diacritics only": {
+      "exact": 0.417,
+      "exact_at_decoding": 0.416,
+      "topic_words": 0.161,
+      "catt_090": 0.394,
+      "catt_095": 0.157,
+      "seconds": 8.117,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.628,
+      "ci95": {
+        "exact": [
+          0.339,
+          0.493
+        ],
+        "catt_090": [
+          0.3,
+          0.494
+        ],
+        "catt_095": [
+          0.103,
+          0.217
+        ],
+        "rawi_strict": [
+          0.464,
+          0.785
+        ],
+        "topic_words": [
+          0.097,
+          0.228
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.37,
+        "kamil": 0.52,
+        "khafif": 0.48,
+        "mutadarik": 0.05,
+        "mutaqarib": 0.54,
+        "rajaz": 0.5,
+        "ramal": 0.38,
+        "sari": 0.38,
+        "tawil": 0.45,
+        "wafir": 0.34
+      }
+    },
+    "ablation: rhyme only": {
+      "exact": 0.396,
+      "exact_at_decoding": 0.396,
+      "topic_words": 0.175,
+      "catt_090": 0.401,
+      "catt_095": 0.139,
+      "seconds": 9.377,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 1.0,
+      "ci95": {
+        "exact": [
+          0.325,
+          0.468
+        ],
+        "catt_090": [
+          0.314,
+          0.49
+        ],
+        "catt_095": [
+          0.095,
+          0.188
+        ],
+        "rawi_strict": [
+          1.0,
+          1.0
+        ],
+        "topic_words": [
+          0.106,
+          0.25
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.42,
+        "kamil": 0.5,
+        "khafif": 0.48,
+        "mutadarik": 0.05,
+        "mutaqarib": 0.48,
+        "rajaz": 0.19,
+        "ramal": 0.4,
+        "sari": 0.38,
+        "tawil": 0.45,
+        "wafir": 0.31
+      }
+    },
+    "ablation: vocabulary only": {
+      "exact": 0.393,
+      "exact_at_decoding": 0.393,
+      "topic_words": 0.167,
+      "catt_090": 0.386,
+      "catt_095": 0.147,
+      "seconds": 8.637,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.405,
+      "ci95": {
+        "exact": [
+          0.314,
+          0.477
+        ],
+        "catt_090": [
+          0.304,
+          0.469
+        ],
+        "catt_095": [
+          0.086,
+          0.212
+        ],
+        "rawi_strict": [
+          0.267,
+          0.549
+        ],
+        "topic_words": [
+          0.106,
+          0.231
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.23,
+        "kamil": 0.48,
+        "khafif": 0.49,
+        "mutadarik": 0.03,
+        "mutaqarib": 0.42,
+        "rajaz": 0.41,
+        "ramal": 0.31,
+        "sari": 0.5,
+        "tawil": 0.67,
+        "wafir": 0.21
+      }
+    },
+    "ablation: meter only": {
+      "exact": 0.996,
+      "exact_at_decoding": 0.996,
+      "topic_words": 0.126,
+      "catt_090": 0.68,
+      "catt_095": 0.344,
+      "seconds": 12.613,
+      "unfinished": 0.033,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.688,
+      "ci95": {
+        "exact": [
+          0.988,
+          1.0
+        ],
+        "catt_090": [
+          0.611,
+          0.747
+        ],
+        "catt_095": [
+          0.256,
+          0.435
+        ],
+        "rawi_strict": [
+          0.535,
+          0.828
+        ],
+        "topic_words": [
+          0.054,
+          0.206
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 375,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 1.0,
+        "kamil": 1.0,
+        "khafif": 1.0,
+        "mutadarik": 0.94,
+        "mutaqarib": 1.0,
+        "rajaz": 1.0,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 1.0,
+        "wafir": 1.0
+      }
+    },
+    "ablation: meter + rhyme": {
+      "exact": 0.974,
+      "exact_at_decoding": 0.974,
+      "topic_words": 0.131,
+      "catt_090": 0.635,
+      "catt_095": 0.335,
+      "seconds": 15.477,
+      "unfinished": 0.333,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.955,
+      "ci95": {
+        "exact": [
+          0.946,
+          0.996
+        ],
+        "catt_090": [
+          0.558,
+          0.714
+        ],
+        "catt_095": [
+          0.268,
+          0.403
+        ],
+        "rawi_strict": [
+          0.899,
+          1.0
+        ],
+        "topic_words": [
+          0.064,
+          0.203
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 366,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.97,
+        "kamil": 1.0,
+        "khafif": 1.0,
+        "mutadarik": 0.75,
+        "mutaqarib": 1.0,
+        "rajaz": 0.94,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 1.0,
+        "wafir": 1.0
+      }
+    },
+    "ALLaM-7B base, free": {
+      "exact": 0.03,
+      "exact_at_decoding": 0.03,
+      "topic_words": 0.305,
+      "catt_090": 0.032,
+      "catt_095": 0.022,
+      "seconds": 9.81,
+      "unfinished": 0.967,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.066,
+      "ci95": {
+        "exact": [
+          0.01,
+          0.054
+        ],
+        "catt_090": [
+          0.0,
+          0.083
+        ],
+        "catt_095": [
+          0.0,
+          0.061
+        ],
+        "rawi_strict": [
+          0.007,
+          0.16
+        ],
+        "topic_words": [
+          0.194,
+          0.426
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 347,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.0,
+        "kamil": 0.05,
+        "khafif": 0.0,
+        "mutadarik": 0.0,
+        "mutaqarib": 0.08,
+        "rajaz": 0.0,
+        "ramal": 0.0,
+        "sari": 0.0,
+        "tawil": 0.09,
+        "wafir": 0.0
+      }
+    },
+    "held-out: ALLaM-7B FT, free": {
+      "exact": 0.384,
+      "exact_at_decoding": 0.384,
+      "topic_words": 0.164,
+      "catt_090": 0.364,
+      "catt_095": 0.129,
+      "seconds": 8.527,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.592,
+      "ci95": {
+        "exact": [
+          0.31,
+          0.458
+        ],
+        "catt_090": [
+          0.281,
+          0.449
+        ],
+        "catt_095": [
+          0.076,
+          0.189
+        ],
+        "rawi_strict": [
+          0.427,
+          0.752
+        ],
+        "topic_words": [
+          0.081,
+          0.261
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.32,
+        "kamil": 0.52,
+        "khafif": 0.39,
+        "mutadarik": 0.0,
+        "mutaqarib": 0.58,
+        "rajaz": 0.44,
+        "ramal": 0.58,
+        "sari": 0.25,
+        "tawil": 0.36,
+        "wafir": 0.24
+      }
+    },
+    "held-out: ALLaM-7B FT, constrained": {
+      "exact": 0.975,
+      "exact_at_decoding": 0.975,
+      "topic_words": 0.214,
+      "catt_090": 0.619,
+      "catt_095": 0.374,
+      "seconds": 16.883,
+      "unfinished": 0.3,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.946,
+      "ci95": {
+        "exact": [
+          0.956,
+          0.991
+        ],
+        "catt_090": [
+          0.526,
+          0.708
+        ],
+        "catt_095": [
+          0.292,
+          0.455
+        ],
+        "rawi_strict": [
+          0.903,
+          0.983
+        ],
+        "topic_words": [
+          0.136,
+          0.297
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 367,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.97,
+        "kamil": 0.98,
+        "khafif": 1.0,
+        "mutadarik": 0.95,
+        "mutaqarib": 1.0,
+        "rajaz": 1.0,
+        "ramal": 0.96,
+        "sari": 0.88,
+        "tawil": 1.0,
+        "wafir": 0.94
+      }
+    },
+    "held-out: ALLaM-7B base, free": {
+      "exact": 0.035,
+      "exact_at_decoding": 0.035,
+      "topic_words": 0.282,
+      "catt_090": 0.022,
+      "catt_095": 0.0,
+      "seconds": 8.19,
+      "unfinished": 0.667,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.078,
+      "ci95": {
+        "exact": [
+          0.006,
+          0.079
+        ],
+        "catt_090": [
+          0.0,
+          0.05
+        ],
+        "catt_095": [
+          0.0,
+          0.0
+        ],
+        "rawi_strict": [
+          0.031,
+          0.132
+        ],
+        "topic_words": [
+          0.18,
+          0.394
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 356,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.12,
+        "kamil": 0.02,
+        "khafif": 0.0,
+        "mutadarik": 0.0,
+        "mutaqarib": 0.0,
+        "rajaz": 0.0,
+        "ramal": 0.0,
+        "sari": 0.0,
+        "tawil": 0.05,
+        "wafir": 0.03
+      }
+    },
+    "held-out: Jais-3-32B FT, free": {
+      "exact": 0.316,
+      "exact_at_decoding": 0.316,
+      "topic_words": 0.158,
+      "catt_090": 0.251,
+      "catt_095": 0.107,
+      "seconds": 45.17,
+      "unfinished": 0.033,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.648,
+      "ci95": {
+        "exact": [
+          0.248,
+          0.383
+        ],
+        "catt_090": [
+          0.186,
+          0.317
+        ],
+        "catt_095": [
+          0.061,
+          0.16
+        ],
+        "rawi_strict": [
+          0.502,
+          0.781
+        ],
+        "topic_words": [
+          0.078,
+          0.253
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 375,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.29,
+        "kamil": 0.36,
+        "khafif": 0.25,
+        "mutadarik": 0.05,
+        "mutaqarib": 0.0,
+        "rajaz": 0.38,
+        "ramal": 0.19,
+        "sari": 0.25,
+        "tawil": 0.54,
+        "wafir": 0.4
+      }
+    },
+    "held-out: Jais-3-32B FT, constrained": {
+      "exact": 0.959,
+      "exact_at_decoding": 0.96,
+      "topic_words": 0.173,
+      "catt_090": 0.681,
+      "catt_095": 0.361,
+      "seconds": 181.3,
+      "unfinished": 0.5,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.922,
+      "ci95": {
+        "exact": [
+          0.935,
+          0.98
+        ],
+        "catt_090": [
+          0.599,
+          0.761
+        ],
+        "catt_095": [
+          0.278,
+          0.452
+        ],
+        "rawi_strict": [
+          0.87,
+          0.965
+        ],
+        "topic_words": [
+          0.088,
+          0.269
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 361,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.92,
+        "kamil": 0.98,
+        "khafif": 0.97,
+        "mutadarik": 0.97,
+        "mutaqarib": 1.0,
+        "rajaz": 1.0,
+        "ramal": 0.9,
+        "sari": 0.88,
+        "tawil": 0.98,
+        "wafir": 0.94
+      }
+    },
+    "held-out: gpt-6.1-sol, prompt only": {
+      "exact": 0.891,
+      "exact_at_decoding": 0.891,
+      "topic_words": 0.409,
+      "catt_090": 0.644,
+      "catt_095": 0.417,
+      "seconds": 132.563,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 1.0,
+      "ci95": {
+        "exact": [
+          0.796,
+          0.965
+        ],
+        "catt_090": [
+          0.532,
+          0.75
+        ],
+        "catt_095": [
+          0.325,
+          0.512
+        ],
+        "rawi_strict": [
+          1.0,
+          1.0
+        ],
+        "topic_words": [
+          0.301,
+          0.519
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.98,
+        "kamil": 0.96,
+        "khafif": 1.0,
+        "mutadarik": 0.09,
+        "mutaqarib": 1.0,
+        "rajaz": 0.59,
+        "ramal": 0.96,
+        "sari": 1.0,
+        "tawil": 0.97,
+        "wafir": 0.97
+      }
+    },
+    "held-out: gpt-6-astra, prompt only": {
+      "exact": 0.941,
+      "exact_at_decoding": 0.941,
+      "topic_words": 0.425,
+      "catt_090": 0.739,
+      "catt_095": 0.454,
+      "seconds": 203.517,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 1.0,
+      "ci95": {
+        "exact": [
+          0.873,
+          0.989
+        ],
+        "catt_090": [
+          0.661,
+          0.81
+        ],
+        "catt_095": [
+          0.357,
+          0.554
+        ],
+        "rawi_strict": [
+          1.0,
+          1.0
+        ],
+        "topic_words": [
+          0.314,
+          0.536
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.98,
+        "kamil": 0.99,
+        "khafif": 1.0,
+        "mutadarik": 0.6,
+        "mutaqarib": 0.94,
+        "rajaz": 0.75,
+        "ramal": 1.0,
+        "sari": 0.88,
+        "tawil": 0.98,
+        "wafir": 1.0
+      }
+    },
+    "held-out: claude-fable-5-2, prompt only": {
+      "exact": 0.895,
+      "exact_at_decoding": 0.895,
+      "topic_words": 0.393,
+      "catt_090": 0.655,
+      "catt_095": 0.423,
+      "seconds": 37.783,
+      "unfinished": 0.0,
+      "abyat_written": 0.933,
+      "rawi_strict": 0.958,
+      "ci95": {
+        "exact": [
+          0.796,
+          0.969
+        ],
+        "catt_090": [
+          0.569,
+          0.736
+        ],
+        "catt_095": [
+          0.334,
+          0.517
+        ],
+        "rawi_strict": [
+          0.875,
+          1.0
+        ],
+        "topic_words": [
+          0.297,
+          0.488
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 356,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.78,
+        "kamil": 0.95,
+        "khafif": 1.0,
+        "mutadarik": 1.0,
+        "mutaqarib": 0.5,
+        "rajaz": 0.94,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.92,
+        "wafir": 0.92
+      }
+    },
+    "seed 1: free": {
+      "exact": 0.367,
+      "exact_at_decoding": 0.367,
+      "topic_words": 0.212,
+      "catt_090": 0.402,
+      "catt_095": 0.15,
+      "seconds": 7.533,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.604,
+      "ci95": {
+        "exact": [
+          0.301,
+          0.435
+        ],
+        "catt_090": [
+          0.323,
+          0.478
+        ],
+        "catt_095": [
+          0.092,
+          0.214
+        ],
+        "rawi_strict": [
+          0.438,
+          0.766
+        ],
+        "topic_words": [
+          0.124,
+          0.303
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.3,
+        "kamil": 0.48,
+        "khafif": 0.34,
+        "mutadarik": 0.15,
+        "mutaqarib": 0.46,
+        "rajaz": 0.19,
+        "ramal": 0.4,
+        "sari": 0.25,
+        "tawil": 0.47,
+        "wafir": 0.32
+      }
+    },
+    "seed 1: constrained": {
+      "exact": 0.935,
+      "exact_at_decoding": 0.935,
+      "topic_words": 0.196,
+      "catt_090": 0.605,
+      "catt_095": 0.382,
+      "seconds": 17.707,
+      "unfinished": 0.833,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.859,
+      "ci95": {
+        "exact": [
+          0.89,
+          0.972
+        ],
+        "catt_090": [
+          0.516,
+          0.691
+        ],
+        "catt_095": [
+          0.312,
+          0.451
+        ],
+        "rawi_strict": [
+          0.755,
+          0.943
+        ],
+        "topic_words": [
+          0.115,
+          0.282
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 351,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.93,
+        "kamil": 0.99,
+        "khafif": 1.0,
+        "mutadarik": 0.84,
+        "mutaqarib": 1.0,
+        "rajaz": 0.84,
+        "ramal": 1.0,
+        "sari": 1.0,
+        "tawil": 0.93,
+        "wafir": 0.83
+      }
+    },
+    "seed 2: free": {
+      "exact": 0.375,
+      "exact_at_decoding": 0.375,
+      "topic_words": 0.186,
+      "catt_090": 0.321,
+      "catt_095": 0.132,
+      "seconds": 8.043,
+      "unfinished": 0.0,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.365,
+      "ci95": {
+        "exact": [
+          0.297,
+          0.454
+        ],
+        "catt_090": [
+          0.22,
+          0.431
+        ],
+        "catt_095": [
+          0.076,
+          0.197
+        ],
+        "rawi_strict": [
+          0.193,
+          0.549
+        ],
+        "topic_words": [
+          0.111,
+          0.264
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 376,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.33,
+        "kamil": 0.42,
+        "khafif": 0.58,
+        "mutadarik": 0.07,
+        "mutaqarib": 0.6,
+        "rajaz": 0.12,
+        "ramal": 0.35,
+        "sari": 0.38,
+        "tawil": 0.34,
+        "wafir": 0.51
+      }
+    },
+    "seed 2: constrained": {
+      "exact": 0.945,
+      "exact_at_decoding": 0.945,
+      "topic_words": 0.148,
+      "catt_090": 0.585,
+      "catt_095": 0.396,
+      "seconds": 17.087,
+      "unfinished": 0.6,
+      "abyat_written": 1.0,
+      "rawi_strict": 0.877,
+      "ci95": {
+        "exact": [
+          0.899,
+          0.981
+        ],
+        "catt_090": [
+          0.489,
+          0.679
+        ],
+        "catt_095": [
+          0.314,
+          0.482
+        ],
+        "rawi_strict": [
+          0.764,
+          0.965
+        ],
+        "topic_words": [
+          0.086,
+          0.215
+        ]
+      },
+      "poems": 30,
+      "hemistichs": 358,
+      "verbatim_in_corpus": 0,
+      "exact_by_meter": {
+        "basit": 0.97,
+        "kamil": 0.99,
+        "khafif": 0.97,
+        "mutadarik": 0.7,
+        "mutaqarib": 1.0,
+        "rajaz": 0.88,
+        "ramal": 1.0,
+        "sari": 0.62,
+        "tawil": 0.99,
+        "wafir": 0.97
+      }
+    }
+  },
+  "paired_differences": {
+    "ALLaM-7B FT, constrained, final acceptor minus ALLaM-7B FT, free": {
+      "exact": {
+        "diff": 0.576,
+        "ci95": [
+          0.507,
+          0.645
+        ]
+      },
+      "catt_090": {
+        "diff": 0.309,
+        "ci95": [
+          0.201,
+          0.413
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.245,
+        "ci95": [
+          0.054,
+          0.425
+        ]
+      },
+      "topic_words": {
+        "diff": -0.004,
+        "ci95": [
+          -0.086,
+          0.075
+        ]
+      }
+    },
+    "gpt-6.1-sol, prompt only minus ALLaM-7B FT, constrained, final acceptor": {
+      "exact": {
+        "diff": -0.027,
+        "ci95": [
+          -0.113,
+          0.047
+        ]
+      },
+      "catt_090": {
+        "diff": 0.08,
+        "ci95": [
+          -0.025,
+          0.182
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.113,
+        "ci95": [
+          0.033,
+          0.217
+        ]
+      },
+      "topic_words": {
+        "diff": 0.263,
+        "ci95": [
+          0.161,
+          0.373
+        ]
+      }
+    },
+    "claude-fable-5-2, prompt only minus ALLaM-7B FT, constrained, final acceptor": {
+      "exact": {
+        "diff": 0.001,
+        "ci95": [
+          -0.09,
+          0.07
+        ]
+      },
+      "catt_090": {
+        "diff": 0.066,
+        "ci95": [
+          -0.054,
+          0.18
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.071,
+        "ci95": [
+          -0.059,
+          0.201
+        ]
+      },
+      "topic_words": {
+        "diff": 0.259,
+        "ci95": [
+          0.152,
+          0.376
+        ]
+      }
+    },
+    "claude-fable-5-2, prompt only minus gpt-6.1-sol, prompt only": {
+      "exact": {
+        "diff": 0.028,
+        "ci95": [
+          -0.076,
+          0.126
+        ]
+      },
+      "catt_090": {
+        "diff": -0.014,
+        "ci95": [
+          -0.129,
+          0.099
+        ]
+      },
+      "rawi_strict": {
+        "diff": -0.042,
+        "ci95": [
+          -0.125,
+          0.0
+        ]
+      },
+      "topic_words": {
+        "diff": -0.004,
+        "ci95": [
+          -0.119,
+          0.113
+        ]
+      }
+    },
+    "gpt-6-astra, prompt only minus gpt-6.1-sol, prompt only": {
+      "exact": {
+        "diff": 0.038,
+        "ci95": [
+          -0.007,
+          0.097
+        ]
+      },
+      "catt_090": {
+        "diff": 0.034,
+        "ci95": [
+          -0.077,
+          0.143
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      "topic_words": {
+        "diff": -0.023,
+        "ci95": [
+          -0.105,
+          0.057
+        ]
+      }
+    },
+    "ALLaM-7B FT, free minus ALLaM-7B base, free": {
+      "exact": {
+        "diff": 0.339,
+        "ci95": [
+          0.271,
+          0.407
+        ]
+      },
+      "catt_090": {
+        "diff": 0.293,
+        "ci95": [
+          0.197,
+          0.389
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.576,
+        "ci95": [
+          0.41,
+          0.743
+        ]
+      },
+      "topic_words": {
+        "diff": -0.187,
+        "ci95": [
+          -0.304,
+          -0.077
+        ]
+      }
+    },
+    "seed 1: free minus ALLaM-7B base, free": {
+      "exact": {
+        "diff": 0.337,
+        "ci95": [
+          0.273,
+          0.406
+        ]
+      },
+      "catt_090": {
+        "diff": 0.37,
+        "ci95": [
+          0.277,
+          0.456
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.538,
+        "ci95": [
+          0.321,
+          0.734
+        ]
+      },
+      "topic_words": {
+        "diff": -0.093,
+        "ci95": [
+          -0.239,
+          0.046
+        ]
+      }
+    },
+    "seed 2: free minus ALLaM-7B base, free": {
+      "exact": {
+        "diff": 0.345,
+        "ci95": [
+          0.271,
+          0.421
+        ]
+      },
+      "catt_090": {
+        "diff": 0.289,
+        "ci95": [
+          0.173,
+          0.403
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.299,
+        "ci95": [
+          0.115,
+          0.493
+        ]
+      },
+      "topic_words": {
+        "diff": -0.119,
+        "ci95": [
+          -0.247,
+          0.006
+        ]
+      }
+    },
+    "held-out: ALLaM-7B FT, constrained minus held-out: ALLaM-7B FT, free": {
+      "exact": {
+        "diff": 0.591,
+        "ci95": [
+          0.518,
+          0.666
+        ]
+      },
+      "catt_090": {
+        "diff": 0.255,
+        "ci95": [
+          0.132,
+          0.369
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.354,
+        "ci95": [
+          0.172,
+          0.54
+        ]
+      },
+      "topic_words": {
+        "diff": 0.05,
+        "ci95": [
+          -0.042,
+          0.136
+        ]
+      }
+    },
+    "held-out: ALLaM-7B FT, free minus held-out: ALLaM-7B base, free": {
+      "exact": {
+        "diff": 0.349,
+        "ci95": [
+          0.256,
+          0.436
+        ]
+      },
+      "catt_090": {
+        "diff": 0.342,
+        "ci95": [
+          0.26,
+          0.429
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.514,
+        "ci95": [
+          0.372,
+          0.655
+        ]
+      },
+      "topic_words": {
+        "diff": -0.118,
+        "ci95": [
+          -0.244,
+          0.002
+        ]
+      }
+    },
+    "held-out: claude-fable-5-2, prompt only minus held-out: ALLaM-7B FT, constrained": {
+      "exact": {
+        "diff": -0.08,
+        "ci95": [
+          -0.185,
+          -0.001
+        ]
+      },
+      "catt_090": {
+        "diff": 0.036,
+        "ci95": [
+          -0.067,
+          0.137
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.012,
+        "ci95": [
+          -0.095,
+          0.089
+        ]
+      },
+      "topic_words": {
+        "diff": 0.179,
+        "ci95": [
+          0.079,
+          0.28
+        ]
+      }
+    },
+    "held-out: gpt-6.1-sol, prompt only minus held-out: ALLaM-7B FT, constrained": {
+      "exact": {
+        "diff": -0.085,
+        "ci95": [
+          -0.178,
+          -0.011
+        ]
+      },
+      "catt_090": {
+        "diff": 0.025,
+        "ci95": [
+          -0.134,
+          0.18
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.054,
+        "ci95": [
+          0.017,
+          0.097
+        ]
+      },
+      "topic_words": {
+        "diff": 0.196,
+        "ci95": [
+          0.055,
+          0.331
+        ]
+      }
+    },
+    "held-out: gpt-6-astra, prompt only minus held-out: ALLaM-7B FT, constrained": {
+      "exact": {
+        "diff": -0.034,
+        "ci95": [
+          -0.098,
+          0.015
+        ]
+      },
+      "catt_090": {
+        "diff": 0.12,
+        "ci95": [
+          -0.003,
+          0.239
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.054,
+        "ci95": [
+          0.017,
+          0.097
+        ]
+      },
+      "topic_words": {
+        "diff": 0.211,
+        "ci95": [
+          0.075,
+          0.344
+        ]
+      }
+    },
+    "Jais-3-32B FT, constrained, final acceptor minus Jais-3-32B FT, free, rerun": {
+      "exact": {
+        "diff": 0.647,
+        "ci95": [
+          0.585,
+          0.708
+        ]
+      },
+      "catt_090": {
+        "diff": 0.424,
+        "ci95": [
+          0.332,
+          0.518
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.274,
+        "ci95": [
+          0.115,
+          0.443
+        ]
+      },
+      "topic_words": {
+        "diff": -0.097,
+        "ci95": [
+          -0.197,
+          0.0
+        ]
+      }
+    },
+    "Jais-3-32B FT, constrained, final acceptor minus ALLaM-7B FT, constrained, final acceptor": {
+      "exact": {
+        "diff": 0.025,
+        "ci95": [
+          -0.016,
+          0.074
+        ]
+      },
+      "catt_090": {
+        "diff": 0.058,
+        "ci95": [
+          -0.065,
+          0.187
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.047,
+        "ci95": [
+          -0.059,
+          0.17
+        ]
+      },
+      "topic_words": {
+        "diff": 0.048,
+        "ci95": [
+          -0.042,
+          0.141
+        ]
+      }
+    },
+    "held-out: Jais-3-32B FT, constrained minus held-out: Jais-3-32B FT, free": {
+      "exact": {
+        "diff": 0.644,
+        "ci95": [
+          0.579,
+          0.71
+        ]
+      },
+      "catt_090": {
+        "diff": 0.429,
+        "ci95": [
+          0.328,
+          0.529
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.274,
+        "ci95": [
+          0.115,
+          0.443
+        ]
+      },
+      "topic_words": {
+        "diff": 0.015,
+        "ci95": [
+          -0.089,
+          0.125
+        ]
+      }
+    },
+    "held-out: Jais-3-32B FT, constrained minus held-out: ALLaM-7B FT, constrained": {
+      "exact": {
+        "diff": -0.016,
+        "ci95": [
+          -0.035,
+          0.003
+        ]
+      },
+      "catt_090": {
+        "diff": 0.062,
+        "ci95": [
+          -0.044,
+          0.175
+        ]
+      },
+      "rawi_strict": {
+        "diff": -0.024,
+        "ci95": [
+          -0.069,
+          0.021
+        ]
+      },
+      "topic_words": {
+        "diff": -0.041,
+        "ci95": [
+          -0.174,
+          0.094
+        ]
+      }
+    },
+    "held-out: gpt-6-astra, prompt only minus held-out: Jais-3-32B FT, constrained": {
+      "exact": {
+        "diff": -0.019,
+        "ci95": [
+          -0.089,
+          0.036
+        ]
+      },
+      "catt_090": {
+        "diff": 0.059,
+        "ci95": [
+          -0.052,
+          0.167
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.078,
+        "ci95": [
+          0.035,
+          0.13
+        ]
+      },
+      "topic_words": {
+        "diff": 0.252,
+        "ci95": [
+          0.121,
+          0.389
+        ]
+      }
+    },
+    "held-out: claude-fable-5-2, prompt only minus held-out: Jais-3-32B FT, constrained": {
+      "exact": {
+        "diff": -0.064,
+        "ci95": [
+          -0.168,
+          0.015
+        ]
+      },
+      "catt_090": {
+        "diff": -0.026,
+        "ci95": [
+          -0.159,
+          0.108
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.036,
+        "ci95": [
+          -0.075,
+          0.122
+        ]
+      },
+      "topic_words": {
+        "diff": 0.219,
+        "ci95": [
+          0.114,
+          0.328
+        ]
+      }
+    },
+    "held-out: gpt-6.1-sol, prompt only minus held-out: Jais-3-32B FT, constrained": {
+      "exact": {
+        "diff": -0.069,
+        "ci95": [
+          -0.168,
+          0.01
+        ]
+      },
+      "catt_090": {
+        "diff": -0.036,
+        "ci95": [
+          -0.193,
+          0.109
+        ]
+      },
+      "rawi_strict": {
+        "diff": 0.078,
+        "ci95": [
+          0.035,
+          0.13
+        ]
+      },
+      "topic_words": {
+        "diff": 0.236,
+        "ci95": [
+          0.111,
+          0.369
+        ]
+      }
+    }
+  }
+}

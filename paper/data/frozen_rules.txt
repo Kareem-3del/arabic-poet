@@ -1,0 +1,1 @@
+sha256 of arud_fsa.py + lexicon.py + constrained.py at the time the held-out prompts were written (13 November 2026): 5e17c59241eaa595aa0838f69d00f391062ad6e5b361aacada4aa5efe0a2ea45

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 245" width="760" height="245" font-family="'IBM Plex Sans Arabic', 'Geeza Pro', 'Arial', sans-serif" direction="ltr" role="img" aria-label="ثوانٍ لكل قصيدة">
+<rect width="760" height="245" fill="#fcfcfb"/>
+<text x="748" y="26" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start" direction="rtl">ثوانٍ لكل قصيدة</text>
+<rect x="736" y="40" width="12" height="12" rx="2" fill="#0a94a3"/>
+<text x="730" y="50" font-size="12" fill="#52514e" text-anchor="start" direction="rtl">مدرَّب، مقيَّد</text>
+<rect x="606.4" y="40" width="12" height="12" rx="2" fill="#d0673a"/>
+<text x="600.4" y="50" font-size="12" fill="#52514e" text-anchor="start" direction="rtl">مستضاف، بالطلب وحده</text>
+<text x="142" y="106.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">ALLaM-7B</text>
+<text x="142" y="127.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">Jais-3-32B</text>
+<text x="142" y="148.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">gpt-6.1-sol</text>
+<text x="142" y="169.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">gpt-6-astra</text>
+<text x="142" y="190.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">claude-fable-5-2</text>
+<text x="425.0" y="82" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" direction="rtl"></text>
+<line x1="150.0" y1="91" x2="150.0" y2="197" stroke="#e4e3df" stroke-width="1"/>
+<line x1="425.0" y1="91" x2="425.0" y2="197" stroke="#e4e3df" stroke-width="1"/>
+<line x1="700.0" y1="91" x2="700.0" y2="197" stroke="#e4e3df" stroke-width="1"/>
+<path d="M150.0,96 h51.0 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-51.0 z" fill="#0a94a3"/>
+<text x="210.0" y="106" font-size="11" fill="#0b0b0b">22</text>
+<path d="M150.0,117 h419.4 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-419.4 z" fill="#0a94a3"/>
+<text x="578.4" y="127" font-size="11" fill="#0b0b0b">166</text>
+<path d="M150.0,138 h320.8 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-320.8 z" fill="#d0673a"/>
+<text x="479.8" y="148" font-size="11" fill="#0b0b0b">127</text>
+<path d="M150.0,159 h519.8 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-519.8 z" fill="#d0673a"/>
+<text x="678.8" y="169" font-size="11" fill="#0b0b0b">205</text>
+<path d="M150.0,180 h79.2 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-79.2 z" fill="#d0673a"/>
+<text x="238.2" y="190" font-size="11" fill="#0b0b0b">33</text>
+<text x="748" y="235" font-size="11" fill="#52514e" text-anchor="start" direction="rtl">ALLaM على حاسوب محمول (M4 Pro)، و Jais على L40S واحدة، والمستضافة عبر واجهاتها.</text>
+</svg>

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.env
+# not distributed: model weights, adapters, the corpus and anything generated locally
+models/
+artifacts/
+data/raw/
+data/processed/
+paper/*.html
+.release-of-arabic-poet

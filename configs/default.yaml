@@ -1,0 +1,10 @@
+# Top-level settings. All paths are relative to the project root.
+default_model: qwen3-8b-4bit
+generation_config: configs/generation/default.yaml
+evaluation_config: configs/evaluation/default.yaml
+paths:
+  models_dir: models
+  artifacts_dir: artifacts
+  data_dir: data
+  model_configs: configs/models
+log_level: INFO

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 267" width="760" height="267" font-family="'IBM Plex Sans Arabic', 'Geeza Pro', 'Arial', sans-serif" direction="ltr" role="img" aria-label="قيد واحد في كل مرة (ALLaM-7B، 30 طلبًا)">
+<rect width="760" height="267" fill="#fcfcfb"/>
+<text x="748" y="26" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start" direction="rtl">قيد واحد في كل مرة (ALLaM-7B، 30 طلبًا)</text>
+<rect x="736" y="40" width="12" height="12" rx="2" fill="#7d66b3"/>
+<text x="730" y="50" font-size="12" fill="#52514e" text-anchor="start" direction="rtl">مدرَّب، حرّ</text>
+<rect x="625.6" y="40" width="12" height="12" rx="2" fill="#0a94a3"/>
+<text x="619.6" y="50" font-size="12" fill="#52514e" text-anchor="start" direction="rtl">مدرَّب، مقيَّد</text>
+<text x="142" y="106.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">حرّ</text>
+<text x="142" y="127.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">تشكيل سليم فقط</text>
+<text x="142" y="148.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">قافية فقط</text>
+<text x="142" y="169.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">معجم فقط</text>
+<text x="142" y="190.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">وزن فقط</text>
+<text x="142" y="211.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">وزن وقافية</text>
+<text x="142" y="232.5" font-size="12" fill="#0b0b0b" text-anchor="start" direction="rtl">القيود كلها</text>
+<text x="222.3" y="82" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" direction="rtl">يقبله مدقّقنا</text>
+<line x1="150.0" y1="91" x2="150.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="222.3" y1="91" x2="222.3" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="294.7" y1="91" x2="294.7" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<path d="M150.0,96 h49.4 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-49.4 z" fill="#7d66b3"/>
+<text x="208.4" y="106" font-size="11" fill="#0b0b0b">0.37</text>
+<path d="M150.0,117 h56.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-56.3 z" fill="#0a94a3"/>
+<text x="215.3" y="127" font-size="11" fill="#0b0b0b">0.42</text>
+<path d="M150.0,138 h53.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-53.3 z" fill="#0a94a3"/>
+<text x="212.3" y="148" font-size="11" fill="#0b0b0b">0.40</text>
+<path d="M150.0,159 h52.9 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-52.9 z" fill="#0a94a3"/>
+<text x="211.9" y="169" font-size="11" fill="#0b0b0b">0.39</text>
+<path d="M150.0,180 h140.1 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-140.1 z" fill="#0a94a3"/>
+<text x="299.1" y="190" font-size="11" fill="#0b0b0b">1.00</text>
+<path d="M150.0,201 h136.9 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-136.9 z" fill="#0a94a3"/>
+<text x="295.9" y="211" font-size="11" fill="#0b0b0b">0.97</text>
+<path d="M150.0,222 h132.7 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-132.7 z" fill="#0a94a3"/>
+<text x="291.7" y="232" font-size="11" fill="#0b0b0b">0.95</text>
+<text x="425.0" y="82" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" direction="rtl">حرف القافية المطلوب</text>
+<line x1="352.7" y1="91" x2="352.7" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="425.0" y1="91" x2="425.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="497.3" y1="91" x2="497.3" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<path d="M352.7,96 h88.9 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-88.9 z" fill="#7d66b3"/>
+<text x="450.5" y="106" font-size="11" fill="#0b0b0b">0.64</text>
+<path d="M352.7,117 h86.9 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-86.9 z" fill="#0a94a3"/>
+<text x="448.5" y="127" font-size="11" fill="#0b0b0b">0.63</text>
+<path d="M352.7,138 h140.7 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-140.7 z" fill="#0a94a3"/>
+<text x="502.3" y="148" font-size="11" fill="#0b0b0b">1.00</text>
+<path d="M352.7,159 h54.6 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-54.6 z" fill="#0a94a3"/>
+<text x="416.3" y="169" font-size="11" fill="#0b0b0b">0.41</text>
+<path d="M352.7,180 h95.5 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-95.5 z" fill="#0a94a3"/>
+<text x="457.2" y="190" font-size="11" fill="#0b0b0b">0.69</text>
+<path d="M352.7,201 h134.2 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-134.2 z" fill="#0a94a3"/>
+<text x="495.8" y="211" font-size="11" fill="#0b0b0b">0.96</text>
+<path d="M352.7,222 h124.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-124.3 z" fill="#0a94a3"/>
+<text x="486.0" y="232" font-size="11" fill="#0b0b0b">0.89</text>
+<text x="627.7" y="82" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" direction="rtl">كلمات الموضوع في القصيدة</text>
+<line x1="555.3" y1="91" x2="555.3" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="627.7" y1="91" x2="627.7" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="700.0" y1="91" x2="700.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<path d="M555.3,96 h13.1 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-13.1 z" fill="#7d66b3"/>
+<text x="577.4" y="106" font-size="11" fill="#0b0b0b">0.12</text>
+<path d="M555.3,117 h19.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-19.3 z" fill="#0a94a3"/>
+<text x="583.6" y="127" font-size="11" fill="#0b0b0b">0.16</text>
+<path d="M555.3,138 h21.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-21.3 z" fill="#0a94a3"/>
+<text x="585.6" y="148" font-size="11" fill="#0b0b0b">0.18</text>
+<path d="M555.3,159 h20.2 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-20.2 z" fill="#0a94a3"/>
+<text x="584.5" y="169" font-size="11" fill="#0b0b0b">0.17</text>
+<path d="M555.3,180 h14.2 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-14.2 z" fill="#0a94a3"/>
+<text x="578.6" y="190" font-size="11" fill="#0b0b0b">0.13</text>
+<path d="M555.3,201 h15.0 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-15.0 z" fill="#0a94a3"/>
+<text x="579.3" y="211" font-size="11" fill="#0b0b0b">0.13</text>
+<path d="M555.3,222 h12.5 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-12.5 z" fill="#0a94a3"/>
+<text x="576.8" y="232" font-size="11" fill="#0b0b0b">0.11</text>
+</svg>

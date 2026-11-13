@@ -1,0 +1,26 @@
+# Qwen3 model card recommendations for non-thinking mode: T=0.7, top_p=0.8, top_k=20, min_p=0.
+sampling:
+  temperature: 0.7
+  top_p: 0.8
+  top_k: 20
+  min_p: 0.0
+  # Token-level repetition penalties also punish the shared rhyme ending, so it is off by default.
+  repetition_penalty: null
+  repetition_context_size: 64
+  max_tokens: 768
+
+hemistich_separator: " ... "
+
+strategies:
+  direct:
+    stages:
+      poem: {max_tokens: 768}
+  arabic:
+    stages:
+      plan: {max_tokens: 600, temperature: 0.6}
+      poem: {max_tokens: 768}
+  hybrid:
+    stages:
+      semantic_plan: {max_tokens: 450, temperature: 0.6, language: en}
+      linguistic_plan: {max_tokens: 600, temperature: 0.6}
+      poem: {max_tokens: 768}

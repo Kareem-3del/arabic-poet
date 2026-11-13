@@ -1,0 +1,5 @@
+benchmark: data/benchmarks/poetry_prompts_v2.jsonl
+strategies: [direct, arabic, hybrid]
+seeds: [0]
+limit: null          # set an int to evaluate only the first N prompts
+output_dir: artifacts/evaluations

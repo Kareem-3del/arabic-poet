@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 268" width="760" height="268" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" direction="ltr" role="img" aria-label="Accepted hemistichs by meter">
+<rect width="760" height="268" fill="#fcfcfb"/>
+<text x="12" y="26" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start" direction="ltr">Accepted hemistichs by meter</text>
+<text x="198.9" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">wafir</text>
+<text x="256.7" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">mutaqarib</text>
+<text x="314.5" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">ramal</text>
+<text x="372.3" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">kamil</text>
+<text x="430.1" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">khafif</text>
+<text x="487.9" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">sari</text>
+<text x="545.7" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">tawil</text>
+<text x="603.5" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">basit</text>
+<text x="661.3" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">rajaz</text>
+<text x="719.1" y="68" font-size="11.5" fill="#52514e" text-anchor="middle" direction="ltr">mutadarik</text>
+<text x="162" y="97.0" font-size="12" fill="#0b0b0b" text-anchor="end">ALLaM-7B, constrained</text>
+<rect x="171.0" y="79" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="198.9" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="228.8" y="79" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="256.7" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="286.6" y="79" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="314.5" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="344.4" y="79" width="55.8" height="28" rx="3" fill="#377d85"/>
+<text x="372.3" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.88</text>
+<rect x="402.2" y="79" width="55.8" height="28" rx="3" fill="#2f7880"/>
+<text x="430.1" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.90</text>
+<rect x="460.0" y="79" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="487.9" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="517.8" y="79" width="55.8" height="28" rx="3" fill="#0e616b"/>
+<text x="545.7" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.99</text>
+<rect x="575.6" y="79" width="55.8" height="28" rx="3" fill="#196972"/>
+<text x="603.5" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.96</text>
+<rect x="633.4" y="79" width="55.8" height="28" rx="3" fill="#206e77"/>
+<text x="661.3" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.94</text>
+<rect x="691.2" y="79" width="55.8" height="28" rx="3" fill="#4d8c93"/>
+<text x="719.1" y="97.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.82</text>
+<text x="162" y="127.0" font-size="12" fill="#0b0b0b" text-anchor="end">Jais-3-32B, constrained</text>
+<rect x="171.0" y="109" width="55.8" height="28" rx="3" fill="#11646e"/>
+<text x="198.9" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.98</text>
+<rect x="228.8" y="109" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="256.7" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="286.6" y="109" width="55.8" height="28" rx="3" fill="#28737c"/>
+<text x="314.5" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.92</text>
+<rect x="344.4" y="109" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="372.3" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="402.2" y="109" width="55.8" height="28" rx="3" fill="#206e77"/>
+<text x="430.1" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.94</text>
+<rect x="460.0" y="109" width="55.8" height="28" rx="3" fill="#679da3"/>
+<text x="487.9" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.75</text>
+<rect x="517.8" y="109" width="55.8" height="28" rx="3" fill="#156670"/>
+<text x="545.7" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.97</text>
+<rect x="575.6" y="109" width="55.8" height="28" rx="3" fill="#0e616b"/>
+<text x="603.5" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.99</text>
+<rect x="633.4" y="109" width="55.8" height="28" rx="3" fill="#156670"/>
+<text x="661.3" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.97</text>
+<rect x="691.2" y="109" width="55.8" height="28" rx="3" fill="#156670"/>
+<text x="719.1" y="127.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.97</text>
+<text x="162" y="157.0" font-size="12" fill="#0b0b0b" text-anchor="end">gpt-6.1-sol</text>
+<rect x="171.0" y="139" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="198.9" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="228.8" y="139" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="256.7" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="286.6" y="139" width="55.8" height="28" rx="3" fill="#196972"/>
+<text x="314.5" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.96</text>
+<rect x="344.4" y="139" width="55.8" height="28" rx="3" fill="#0e616b"/>
+<text x="372.3" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.99</text>
+<rect x="402.2" y="139" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="430.1" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="460.0" y="139" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="487.9" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="517.8" y="139" width="55.8" height="28" rx="3" fill="#3e828a"/>
+<text x="545.7" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.86</text>
+<rect x="575.6" y="139" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="603.5" y="157.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="633.4" y="139" width="55.8" height="28" rx="3" fill="#7eacb1"/>
+<text x="661.3" y="157.0" font-size="11.5" fill="#0b0b0b" text-anchor="middle">0.69</text>
+<rect x="691.2" y="139" width="55.8" height="28" rx="3" fill="#c8dee0"/>
+<text x="719.1" y="157.0" font-size="11.5" fill="#0b0b0b" text-anchor="middle">0.49</text>
+<text x="162" y="187.0" font-size="12" fill="#0b0b0b" text-anchor="end">gpt-6-astra</text>
+<rect x="171.0" y="169" width="55.8" height="28" rx="3" fill="#11646e"/>
+<text x="198.9" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.98</text>
+<rect x="228.8" y="169" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="256.7" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="286.6" y="169" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="314.5" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="344.4" y="169" width="55.8" height="28" rx="3" fill="#0e616b"/>
+<text x="372.3" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.99</text>
+<rect x="402.2" y="169" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="430.1" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="460.0" y="169" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="487.9" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="517.8" y="169" width="55.8" height="28" rx="3" fill="#196972"/>
+<text x="545.7" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.96</text>
+<rect x="575.6" y="169" width="55.8" height="28" rx="3" fill="#156670"/>
+<text x="603.5" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.97</text>
+<rect x="633.4" y="169" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="661.3" y="187.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="691.2" y="169" width="55.8" height="28" rx="3" fill="#b2cfd2"/>
+<text x="719.1" y="187.0" font-size="11.5" fill="#0b0b0b" text-anchor="middle">0.55</text>
+<text x="162" y="217.0" font-size="12" fill="#0b0b0b" text-anchor="end">claude-fable-5-2</text>
+<rect x="171.0" y="199" width="55.8" height="28" rx="3" fill="#11646e"/>
+<text x="198.9" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.98</text>
+<rect x="228.8" y="199" width="55.8" height="28" rx="3" fill="#2f7880"/>
+<text x="256.7" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.90</text>
+<rect x="286.6" y="199" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="314.5" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="344.4" y="199" width="55.8" height="28" rx="3" fill="#0e616b"/>
+<text x="372.3" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.99</text>
+<rect x="402.2" y="199" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="430.1" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="460.0" y="199" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="487.9" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="517.8" y="199" width="55.8" height="28" rx="3" fill="#1d6b75"/>
+<text x="545.7" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.95</text>
+<rect x="575.6" y="199" width="55.8" height="28" rx="3" fill="#559198"/>
+<text x="603.5" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.80</text>
+<rect x="633.4" y="199" width="55.8" height="28" rx="3" fill="#0a5f69"/>
+<text x="661.3" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">1.00</text>
+<rect x="691.2" y="199" width="55.8" height="28" rx="3" fill="#156670"/>
+<text x="719.1" y="217.0" font-size="11.5" fill="#ffffff" text-anchor="middle">0.97</text>
+<text x="12" y="258" font-size="11" fill="#52514e" text-anchor="start" direction="ltr">One to six prompts per meter: read the pattern, not the decimals.</text>
+</svg>

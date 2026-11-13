@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 287" width="760" height="287" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" direction="ltr" role="img" aria-label="Topic words that appear in the poem">
+<rect width="760" height="287" fill="#fcfcfb"/>
+<text x="12" y="26" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start" direction="ltr">Topic words that appear in the poem</text>
+<rect x="12" y="40" width="12" height="12" rx="2" fill="#7d66b3"/>
+<text x="30" y="50" font-size="12" fill="#52514e">fine-tuned, free</text>
+<rect x="162.4" y="40" width="12" height="12" rx="2" fill="#0a94a3"/>
+<text x="180.4" y="50" font-size="12" fill="#52514e">fine-tuned, constrained</text>
+<rect x="361.1" y="40" width="12" height="12" rx="2" fill="#d0673a"/>
+<text x="379.1" y="50" font-size="12" fill="#52514e">hosted, prompt only</text>
+<text x="142" y="106.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">ALLaM-7B</text>
+<text x="142" y="127.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">Jais-3-32B</text>
+<text x="142" y="148.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">ALLaM-7B</text>
+<text x="142" y="169.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">Jais-3-32B</text>
+<text x="142" y="190.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">gpt-6.1-sol</text>
+<text x="142" y="211.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">gpt-6-astra</text>
+<text x="142" y="232.5" font-size="12" fill="#0b0b0b" text-anchor="end" direction="ltr">claude-fable-5-2</text>
+<text x="425.0" y="82" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" direction="ltr"></text>
+<line x1="150.0" y1="91" x2="150.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="425.0" y1="91" x2="425.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<line x1="700.0" y1="91" x2="700.0" y2="239" stroke="#e4e3df" stroke-width="1"/>
+<path d="M150.0,96 h125.8 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-125.8 z" fill="#7d66b3"/>
+<text x="284.8" y="106" font-size="11" fill="#0b0b0b">0.12</text>
+<path d="M150.0,117 h219.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-219.3 z" fill="#7d66b3"/>
+<text x="378.3" y="127" font-size="11" fill="#0b0b0b">0.20</text>
+<path d="M150.0,138 h121.4 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-121.4 z" fill="#0a94a3"/>
+<text x="280.4" y="148" font-size="11" fill="#0b0b0b">0.11</text>
+<path d="M150.0,159 h174.2 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-174.2 z" fill="#0a94a3"/>
+<text x="333.2" y="169" font-size="11" fill="#0b0b0b">0.16</text>
+<path d="M150.0,180 h410.7 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-410.7 z" fill="#d0673a"/>
+<text x="569.7" y="190" font-size="11" fill="#0b0b0b">0.38</text>
+<path d="M150.0,201 h385.4 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-385.4 z" fill="#d0673a"/>
+<text x="544.4" y="211" font-size="11" fill="#0b0b0b">0.35</text>
+<path d="M150.0,222 h406.3 a4,4 0 0 1 4,4 v4 a4,4 0 0 1 -4,4 h-406.3 z" fill="#d0673a"/>
+<text x="565.3" y="232" font-size="11" fill="#0b0b0b">0.37</text>
+<text x="12" y="277" font-size="11" fill="#52514e" text-anchor="start" direction="ltr">Share of the request&#x27;s topic words found in the poem. Shared words, not meaning.</text>
+</svg>
